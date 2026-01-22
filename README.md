@@ -25,7 +25,7 @@
 - 🌱 Learning **Advanced Spring Security🔐**
 - 👯 Open to collaborate on **Spring Boot & React projects**
 - 💬 Ask me about **Spring Boot, React, REST APIs, PostgreSQL**
-- 🌐 Portfolio → **https://personal-portfolio-acuo.vercel.app/**
+- 🌐 Portfolio → **https://tartor.xyz/**
 - 🐦 I tweet → **https://x.com/Tartor_G**
 - 📬 Email → **gaaditartor160@gmail.com**
 - ⚡ Fun fact → **I code better with music on 🎧**
